@@ -1,0 +1,6 @@
+[submodule "context-retrieval-backend"]
+	path = context-retrieval-backend
+	url = https://github.com/Jefferson-liu/context-retrieval-backend.git
+[submodule "context-retrieval-agent-test"]
+	path = context-retrieval-agent-test
+	url = https://github.com/Jefferson-liu/context-retrieval-agent-test.git
