@@ -1,3 +1,6 @@
 # Local environment files
 docker.env
 .env
+
+# Local tool config
+.claude/
